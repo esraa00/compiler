@@ -1,1 +1,1 @@
-the first thing a compiler do is breaking my code from characters into words through lexer (breaks up my code into tokens).
+the first thing a compiler do is breaking my code into tokens through lexer.
